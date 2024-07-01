@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/Program Files/gradle-8.5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/java-clean" />
+            <option value="$PROJECT_DIR$/java-crud" />
+            <option value="$PROJECT_DIR$/java-exception" />
+            <option value="$PROJECT_DIR$/java-hibernate" />
+            <option value="$PROJECT_DIR$/java-jdbc" />
+            <option value="$PROJECT_DIR$/java-patterns" />
+            <option value="$PROJECT_DIR$/java-rts" />
+            <option value="$PROJECT_DIR$/java-rts/java-exception" />
+            <option value="$PROJECT_DIR$/java-spring" />
+            <option value="$PROJECT_DIR$/java-spring-web" />
+            <option value="$PROJECT_DIR$/java-stream" />
+            <option value="$PROJECT_DIR$/java-tasks" />
+            <option value="$PROJECT_DIR$/junit-testing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
